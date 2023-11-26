@@ -22,3 +22,5 @@ https://sliders.baulab.info/
 
 ## Output
 
+![1](https://github.com/camenduru/sliders-colab/assets/54370274/2d44c588-5603-4eb1-ac93-43dcd34a0197)
+![3](https://github.com/camenduru/sliders-colab/assets/54370274/d24f6d7f-1a7c-42cd-9743-b96ccc556cdc)
