@@ -46,3 +46,4 @@ https://sliders.baulab.info/
 ![1](https://github.com/camenduru/sliders-colab/assets/54370274/2d44c588-5603-4eb1-ac93-43dcd34a0197)
 ![3](https://github.com/camenduru/sliders-colab/assets/54370274/d24f6d7f-1a7c-42cd-9743-b96ccc556cdc)
 ![4](https://github.com/camenduru/sliders-colab/assets/54370274/461c44af-93ab-46fe-8259-1f2c413ded51)
+![5](https://github.com/camenduru/sliders-colab/assets/54370274/f65b73ec-1c31-4639-a96a-b3e59803c3fc)
