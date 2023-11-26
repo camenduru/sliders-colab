@@ -10,6 +10,7 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sliders-colab/blob/main/sliders_colab.ipynb) | sliders_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sliders-colab/blob/main/sliders_gradio_colab.ipynb) | sliders_gradio_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sliders-colab/blob/main/sliders_age_gradio_colab.ipynb) | sliders_age_gradio_colab
 
 ## Main Repo
 https://github.com/rohitgandikota/sliders
