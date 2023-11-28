@@ -8,6 +8,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sliders-colab/blob/main/sliders/sliders_train_gradio_colab.ipynb) | sliders_train_gradio_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sliders-colab/blob/main/sliders/sliders_age_gradio_colab.ipynb) | sliders_age_gradio_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sliders-colab/blob/main/sliders/sliders_cartoon_style_gradio_colab.ipynb) | sliders_cartoon_style_gradio_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sliders-colab/blob/main/sliders/sliders_chubby_gradio_colab.ipynb) | sliders_chubby_gradio_colab
