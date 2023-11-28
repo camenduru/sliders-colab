@@ -34,7 +34,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/sliders-colab/blob/main/sliders/sliders_winter_weather_gradio_colab.ipynb) | sliders_winter_weather_gradio_colab
 
 ## Main Repo
-https://github.com/rohitgandikota/sliders
+https://github.com/rohitgandikota/sliders <br />
+https://huggingface.co/spaces/baulab/ConceptSliders/tree/main <br />
 
 ## Paper
 https://arxiv.org/abs/2311.12092
